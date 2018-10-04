@@ -1,0 +1,12 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/models/sandwich_spec.rb[1:1] | passed | 0.00047 seconds |
+./spec/models/sandwich_spec.rb[1:2] | passed | 0.00041 seconds |
+./spec/models/sandwich_spec.rb[2:1] | passed | 0.00047 seconds |
+./spec/models/sandwich_spec.rb[2:2] | passed | 0.00041 seconds |
+./spec/models/sandwich_spec.rb[3:1] | passed | 0.00042 seconds |
+./spec/models/sandwich_spec.rb[3:2] | passed | 0.00045 seconds |
+./spec/models/sandwich_spec.rb[4:1] | passed | 0.00042 seconds |
+./spec/models/sandwich_spec.rb[4:2] | passed | 0.00046 seconds |
+./spec/models/sandwich_spec.rb[5:1] | passed | 0.00096 seconds |
+./spec/models/sandwich_spec.rb[5:2] | passed | 0.00048 seconds |
